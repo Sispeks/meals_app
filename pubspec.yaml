@@ -70,3 +70,12 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  fonts:
+    - family: AsapCondensed
+      fonts:
+        - asset: assets/fonts/AsapCondensed-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/AsapCondensed-Italic.ttf
+          style: italic
+        - asset: assets/fonts/AsapCondensed-Regular.ttf
+          weight: 500
